@@ -5,7 +5,9 @@ Hi! This is the portfolio site of Edmond Yip.
 \[**Stats+ML** :bar_chart:\] <br />
 **Tech stack**: R tidyverse, ggplot2; python sklearn, numpy, pandas, matplotlib, plotly, etc.
 
-1. COVID antiviral treatment effect investigation [repo](https://github.com/catmasteryip/covid_antiviral) | [publication](https://www.sciencedirect.com/science/article/pii/S2666606522002176) <br />
+1. COVID antiviral treatment effect investigation [repo1](https://github.com/catmasteryip/covid_antiviral) | [repo2](https://github.com/catmasteryip/covid_antiviral2) | [publication](https://www.sciencedirect.com/science/article/pii/S2666606522002176) <br />
+   From publiation: <br />
+   ![alt text](http://github.com/catmasteryip/resume/blob/main/pic1.jpeg?raw=true)
 
 2. A&E excess death and hospital avoidance association investigation [repo](https://github.com/catmasteryip/AnE_data_new) <br />
 
