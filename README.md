@@ -3,7 +3,7 @@ Hi! This is the portfolio site of Edmond Yip.
 # Project repos:
 
 \[**Stats+ML** :bar_chart:\] <br />
-**Tech stack**: R tidyverse, ggplot2; python sklearn, numpy, pandas, matplotlib, plotly, etc.
+:wrench:**Tech stack**: R tidyverse, ggplot2; python sklearn, numpy, pandas, matplotlib, plotly, etc.
 
 1. COVID antiviral treatment effect investigation [repo1](https://github.com/catmasteryip/covid_antiviral) | [repo2](https://github.com/catmasteryip/covid_antiviral2) | [publication](https://www.sciencedirect.com/science/article/pii/S2666606522002176) <br />
    From publiation: <br />
@@ -14,7 +14,7 @@ Hi! This is the portfolio site of Edmond Yip.
 3. Air pollution and A&E usage association investigation <br />
 
 \[**Computer vision+app** dev :eyes:+:iphone:\] <br />
-**Tech stack**: Android Java; python OpenCV, PyQt5, etc.; MVC pattern, multithreading;
+:wrench:**Tech stack**: Android Java; python OpenCV, PyQt5, etc.; MVC pattern, multithreading
 
 4. Single-cell elasticity desktop app [repo](https://github.com/catmasteryip/MVC_singleCell) | [publication](https://www.sciencedirect.com/science/article/pii/S2215016121000406)<br />
    Demo Video <br />
