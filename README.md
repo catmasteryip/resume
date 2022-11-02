@@ -19,7 +19,7 @@ Hi! This is the portfolio site of Edmond Yip.
 4. Single-cell elasticity calculation desktop app, from real-time microscopic imagery of cell squeezing and pressure data [repo](https://github.com/catmasteryip/MVC_singleCell) | [publication](https://www.sciencedirect.com/science/article/pii/S2215016121000406)<br />
    Demo Video <br />
 
-   https://user-images.githubusercontent.com/29121012/199429531-44c085b0-5bfd-4ec4-a514-3636c2b9fce2.mp4
+   https://user-images.githubusercontent.com/29121012/199436901-b80cfb30-52a2-44b2-b8ef-f77a54be97ee.mp4
 
 5. QR code testing paper colored patch length recognition Android app [repo](https://github.com/catmasteryip/GlucoseCam)<br />
    Demo Video <br />
